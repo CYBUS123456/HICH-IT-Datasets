@@ -9,4 +9,4 @@ we use our image data using the U-net segmentation model. Due to the unique stru
 We use our text data on a Named Entity Recognition(NER) model, Named Entity Recognition (NER) models represent a key task in natural language processing. The objective of NER is to automatically identify named entities in text and categorize them into predefined classes.We divided the text data into training, testing and validation sets. After training,the weight files were imported into the test and validation sets to evaluate the effectiveness of the text data
 ![image](https://github.com/CYBUS123456/HICH-IT-Datasets/assets/154394829/11835906-cd8b-4240-adff-0cc39c57b6ce)
 # Related Literature
-https://arxiv.org/abs/2401.15934
+[https://arxiv.org/abs/2401.15934](https://arxiv.org/abs/2401.15934)https://arxiv.org/abs/2401.15934
